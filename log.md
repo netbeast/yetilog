@@ -1,10 +1,11 @@
 ## Features & Enhacenments
 
-* First Enhacenment 
-* Second Enhacenment
-* Third Enhacenment
+* Philips Hue cloud
+* Changelog in-app to see whats new
+* Officially works with Nest
+* New iconset
 
 ## Fixed Bugs
 
-* Bug 1
-* Bug 2
+* Fixed some notification issues
+* Improves connectivity and device reliability
