@@ -5,5 +5,5 @@
 
 ## Fixed Bugs
 
-* Fixed some routines issues
-* Improves connectivity and device reliability
+* Fixed some routine issues - Android
+* Improved connectivity and device reliability
