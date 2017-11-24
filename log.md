@@ -1,11 +1,9 @@
 ## Features & Enhacenments
 
-* Philips Hue cloud
-* Changelog in-app to see whats new
-* Officially works with Nest
-* New iconset
+* Ecobee is now supported by Yeti
+* New light control interface
 
 ## Fixed Bugs
 
-* Fixed some notification issues
+* Fixed some routines issues
 * Improves connectivity and device reliability
