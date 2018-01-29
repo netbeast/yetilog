@@ -1,12 +1,11 @@
 ## Features & Enhacenments
 
-* Yeti now is tablet ready! Use Yeti in your Amazon Fire, Ipads and more.
-* You can buy smart home products from Yeti. Go to Configure Brands > More info
-* Improved compatibility with Amazon Fire devices
+* Configure your devices at Sunrise or Sunset with the new predefined routines
+* Check all new charms suggestions. Good Night & Party time are some of them
 
 ## Fixed Bugs
 
-* Fixed some user interface bugs 
-* Improve reliability with Philips Hue lights
-* Improve some interface errors in the light controller
+* Fixed some design issues
+* Improved Lifx and Tp-Link usability
+* Fixed some issues related with charms and routines
 
