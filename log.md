@@ -6,6 +6,6 @@
 ## Fixed Bugs
 
 * Fixed some design issues
-* Improved Lifx and Tp-Link usability
+* Improved Lifx and Tp-Link usability 
 * Fixed some issues related with charms and routines
 
